@@ -7,7 +7,6 @@ Tenho experiência principalmente com C#, .NET, Node.js e tecnologias do ecossis
 ## Minhas redes sociais
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/cainapimenta)
-- [![LinkedIn](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/cainapimenta)
 
 ## Habilidades
 
@@ -46,9 +45,5 @@ Tenho experiência principalmente com C#, .NET, Node.js e tecnologias do ecossis
 - E tentando ler mais livros
 
 ## GitHub Stats
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cainapimenta&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cainapimenta&layout=compact&theme=dark) -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cainapimenta&" alt="cainapimenta" /></p>
